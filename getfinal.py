@@ -12,9 +12,10 @@ def voting():
 		try:
 			browser.find_element_by_xpath('//*[@id="email"]').send_keys(email)
 			browser.find_element_by_xpath('//*[@id="signup-form"]/fieldset/div/button').click()
-			print('Registered')
+			print('Registered an account.')
 		except:
 			print('Closing and trying again.')
 		browser.close()
 
-voting()
+if __name__ == '__main__':
+	voting()
