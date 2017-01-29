@@ -11,3 +11,6 @@ http://phantomjs.org
 Move the PhantomJS to the path folder and simply run the bot. It will let you know when accounts have been registered. Check your queue status on getfinal.com
 
 ## Please note that after awhile, referrals no longer bump you up in rank and you will simply need to wait.
+
+
+## Remember to change the referral link to your link!
