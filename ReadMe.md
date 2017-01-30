@@ -2,7 +2,10 @@
 
 This script bumps you up in queue, from 200-400k+ to the 100-500 in just a few minutes.
 
-## Requirements
+### There are two versions - a requests version and Selenium version. Use whichever you feel more comfortable with. 
+
+
+## Selenium Version Requirements
 
 Make sure to have Selenium installed. Furthermore, you will need the PhantomJS driver. Download it from here:
 
