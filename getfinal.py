@@ -3,7 +3,10 @@ from time import sleep
 from random import randint
 
 def voting():
-	url = 'referral goes here' # PUT YOUR REFERRAL LINK HERE
+	url = 'https://www.getfinal.com/?ref=673aNmz_' # PUT YOUR REFERRAL LINK HERE
+	if 'getfinal.com/?ref=' not in url:
+		url = input('Enter your full referral url: ')
+		
 	email_prefix = 'tester{}'.format(randint(1,10)) # more unique email prefix
 	for i in range(1,1000):
 		browser = webdriver.PhantomJS()
