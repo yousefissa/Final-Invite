@@ -2,7 +2,9 @@
 
 This script bumps you up in queue, from 200-400k+ to the 100-500 in just a few minutes.
 
-### There are two versions - a requests version and Selenium version. Use whichever you feel more comfortable with. 
+### There are two versions - a requests version and Selenium version. The requests version is 10x easier to run.
+
+Run final_requests.py, put your referral url in, and you're done.
 
 
 ## Selenium Version Requirements
