@@ -1,5 +1,9 @@
 # Final Queue bumping script.
 
+## Edit, as of March 29th. 
+
+I don't believe this script is useful any longer. It makes accounts but I don't think Final bumps your place in queue. 
+
 This script bumps you up in queue, from 200-400k+ to the 100-500 in just a few minutes.
 
 ### There are two versions - a requests version and Selenium version. The requests version is 10x easier to run.
